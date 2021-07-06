@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aduncan2422
 - 👀 I’m interested in learning and growing professionally.
-- 🌱 I’m currently learning Postman, Azure functionalities, and products.
+- 🌱 I’m currently learning Postman, Azure functionalities, and NexTech products.
 - 📫 How to reach me - a.duncan@nextech.com
 
 <!---
